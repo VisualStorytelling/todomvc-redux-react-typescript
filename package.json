@@ -15,6 +15,9 @@
   "author": "Jack Hsu <jack.hsu@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "@visualstorytelling/provenance-core": "*",
+    "@visualstorytelling/provenance-react": "^1.0.0",
+    "@visualstorytelling/provenance-redux": "*",
     "classnames": "2.2.5",
     "concurrently": "3.4.0",
     "express": "4.15.2",
@@ -26,6 +29,7 @@
     "redux-actions": "2.2.1",
     "serve-static": "1.12.1",
     "todomvc-app-css": "2.0.6",
+    "ts-promise": "^1.0.0",
     "yargs": "7.0.1"
   },
   "devDependencies": {

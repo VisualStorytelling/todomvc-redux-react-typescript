@@ -1,5 +1,9 @@
 ![https://travis-ci.org/jaysoo/todomvc-redux-react-typescript](https://api.travis-ci.org/jaysoo/todomvc-redux-react-typescript.svg)
 
+Provenance built on top of https://github.com/jaysoo/todomvc-redux-react-typescript
+
+
+
 This is an implementation of [TodoMVC](http://todomvc.com/) built using:
 
 - [React & ReactDOM](http://facebook.github.io/react/) 15.4.2

@@ -29,12 +29,12 @@ const editTodo = createAction<Todo, Todo, string>(
 const completeTodo = createAction<Todo, Todo>(
   COMPLETE_TODO,
   (todo: Todo) => todo
-)
+);
 
 const completeAll = createAction<void>(
   COMPLETE_ALL,
   () => { }
-)
+);
 
 const clearCompleted = createAction<void>(
   CLEAR_COMPLETED,
