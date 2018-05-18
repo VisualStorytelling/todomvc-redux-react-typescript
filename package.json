@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "@visualstorytelling/provenance-core": "*",
-    "@visualstorytelling/provenance-react": "^1.0.0",
+    "@visualstorytelling/provenance-react": "*",
     "@visualstorytelling/provenance-redux": "*",
     "classnames": "2.2.5",
     "concurrently": "3.4.0",
